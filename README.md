@@ -1,7 +1,8 @@
 ## Table of Content
 - [Project Overview](#project-overview)
-- 
-
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
 
 
 ### Project Overview
