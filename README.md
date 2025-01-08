@@ -16,3 +16,10 @@ In the initial data preparation phase, I performed the following tasks:
 - Handling missing values
 - Data cleaning and formatting
 
+### Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions, such as:
+
+What is the overall sales trend?
+Which products are top sellers?
+What are the peak sales periods?
+Data Analysis
