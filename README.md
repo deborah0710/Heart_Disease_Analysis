@@ -9,4 +9,10 @@ The primary data used for this analysis is the "heart.csv", containing necessary
 - Excel - Data Cleaning and Analysis
 - PowerBI - Creating reports
 
-  
+### Data Cleaning/ Preparation
+In the initial data preparation phase, I performed the following tasks:
+
+- Data loading and inspection
+- Handling missing values
+- Data cleaning and formatting
+
