@@ -19,7 +19,10 @@ In the initial data preparation phase, I performed the following tasks:
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
 
-What is the overall sales trend?
-Which products are top sellers?
-What are the peak sales periods?
-Data Analysis
+1. What is the general patients demographics?
+2. What is the demographics of people with the likelihood of the heart disease?
+3. What role does age and exercise play in the population with the likelihood of the disease?
+
+
+
+
